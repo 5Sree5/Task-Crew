@@ -1,0 +1,16 @@
+flask
+flask-cors
+sqlalchemy
+python-dotenv
+openai
+langchain
+langchain-openai
+python-dateutil
+pydantic
+tenacity
+apscheduler
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+notion-client
